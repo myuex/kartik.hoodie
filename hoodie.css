@@ -1,0 +1,131 @@
+body{
+    margin: 0%;
+    padding: 0%;
+    background-image: url(./back.jpg!sw800);
+    background-repeat: no-repeat;
+    background-size: cover;
+ }
+ header{
+    background-color: rgb(161, 203, 209);
+    padding: 10px;
+ }
+ nav{
+    text-align: right;
+    
+ }
+ .img-1{
+    width: 70px;
+    height: 50px;
+   margin-right: 950px;
+ }
+ nav a{
+    text-decoration: none;
+    font-size: 20px;
+    color: white;
+    font-family: "Lato", sans-serif;
+  font-weight: 300;
+  font-style: normal;
+ }
+ .img{
+    width:90px;
+ }
+ 
+.third{
+    margin-left:30px
+}
+.first-1{
+    margin-right: 25px;
+}
+.first{
+    margin-right: 25px;
+    margin-left: 25px;
+}
+.second{
+    margin-right:25px;
+    margin-left:25px
+}
+ .all{
+     
+ }
+ .jjk{
+    color: rgb(0, 195, 255);
+ }
+ .jacket-1{
+    max-width: 100%;
+    max-height: 100%;
+    background-color: grey;
+    margin: auto;
+    display: block;
+ }
+ .red{
+    color: red;
+ }
+ .back{
+    background-color: white;
+    padding: 20px;;
+ }
+ .center{
+     text-align: center;
+     font-size: 30px;
+ }
+ .link-1{
+     text-decoration: none;
+     color: black;
+ }
+ .cart{
+     text-align: center;
+     font-size: 25px;
+     border-image: linear-gradient(to right, #3acfd5 0%, #3a4ed5 100%) 1;
+     border-radius: 5px; /* this doesn't work */
+     border-width: 4px;
+     border-style: solid;
+     padding: 4px;
+     
+ }
+ .p-back{
+     background-color: lightgrey;
+     box-shadow: 7px 7px 5px 5px rgb(160, 157, 157);
+     
+ }
+ .middle{
+     font-size: 22px;
+     margin-left: 20px;
+ }
+ .small-high{
+     font-size: 20px;
+     margin-left: 20px;
+ }
+ .para{
+     font-size:18px;
+     margin-left: 20px;
+ }
+ .read{
+     margin-left: 20px;
+    
+ }
+ .bookmark{
+     margin-left: 20px;
+     
+ }
+ .no-deco{
+     text-decoration: none;
+     font-size:18px;
+ }
+ .no-deco-2{
+     text-decoration: none;
+     font-size: 18px;
+ }
+ .github{
+     width:22px;
+     margin-left: 22px;
+ }
+ .twitter{
+     width:22px;
+     margin-left: 22px;
+ }
+ .linkedin{
+    width:22px;
+     margin-left: 22px;
+ }
+
+ 
